@@ -10,9 +10,13 @@
 
 Yajing Xu, Yiwei Wang, Haonan He, Yichi Zhang, Ren He, Xin Cao, Huan Gao, and Wen Zhang.
 
-## Overview
+## Summary
 
 StoryEval is a benchmark for evaluating story-grounded video generation across both intra-segment event realization and inter-segment visual and narrative continuity.
+
+- Evaluates whether each generated segment realizes source-specified events.
+- Measures visual and narrative continuity across adjacent segments.
+- Combines shared core metrics with adaptive metrics for story- and genre-specific evaluation.
 
 ## Publication
 
